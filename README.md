@@ -1,1 +1,1 @@
-# top2panoi
+# Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View
