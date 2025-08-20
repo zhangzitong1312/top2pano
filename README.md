@@ -33,6 +33,18 @@ You can replace the dataset file to test on the Gibson or Matterport dataset.
 # Prepare the Dataset
 
 
+# Acknowledgements
+
+This project builds upon several excellent open source projects:
+
+* [ControlNet](https://github.com/lllyasviel/ControlNet) - A neural network structure that adds spatial conditioning to diffusion models, enabling precise control over image generation with external guidance.  
+
+
+* [Sat2Density](https://github.com/qianmingduowan/Sat2Density) - A geometric-based end-to-end framework for synthesizing ground-view panoramas from satellite imagery.
+
+We thank the authors and contributors of these projects for their valuable contributions to the open-source community.
+
+
 # Citation
 ```
 @inproceedings{zhang2025top2pano,
