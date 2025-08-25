@@ -68,6 +68,8 @@ python import_prep_matterport.py
 
 After preparing the data, use the Blender scripts (with prefix `bscript_`) to render the actual dataset. These scripts should be run inside Blender using the command line.
 
+> We used Blender 2.83.20.
+
 #### Gibson Rendering
 
 ```bash
